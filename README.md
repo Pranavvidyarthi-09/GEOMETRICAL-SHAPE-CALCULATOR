@@ -39,7 +39,16 @@ The project also includes input validation, formula display, random shape sugges
 * `math` module
 * `random` module
 * `datetime` module
-* Python lists, tuples, dictionaries, sets, functions, and conditional statements
+* Python functions
+* Conditional statements
+* Loops
+* Lists
+* Dictionaries
+* Input validation
+* Console/Terminal
+* Git and GitHub for version control
+
+---
 
 ## Installation
 
@@ -55,6 +64,8 @@ Download or clone the project files from the GitHub repository.
 
 Open a terminal or command prompt inside the project folder.
 
+---
+
 ## How to Run
 
 Run the following command:
@@ -64,6 +75,8 @@ python main.py
 ```
 
 The program will display the list of geometric shapes. Enter a number from **1 to 12**, then provide the required dimensions.
+
+---
 
 ## Example
 
@@ -93,6 +106,8 @@ Area = 78.53981633974483
 Circumference = 31.41592653589793
 ```
 
+---
+
 ## Testing
 
 The application can be tested by:
@@ -104,6 +119,8 @@ The application can be tested by:
 * Entering menu choices outside the range 1–12.
 * Checking whether the displayed formulas and calculated results are correct.
 
+---
+
 ## Project Files
 
 ```text
@@ -114,10 +131,18 @@ Geometric-Shape-Calculator/
 └── statement.md
 ```
 
+---
+
 ## Screenshots
 
 Screenshots of the program execution can be added here to demonstrate the calculator interface and results.
 
 ## Conclusion
+The Geometric Shape Calculator is a simple and useful Python project that makes geometric calculations quick and easy. It demonstrates important Python concepts such as functions, input validation, conditional statements, mathematical operations, and built-in modules. The project successfully calculates different measurements for 12 common geometric shapes and provides accurate results.
+
+## Author 
+Pranav Vidyarthi \
+Project = Geometrical shape calculator\
+Language : Python
 
 The Geometric Shape Calculator provides a simple and efficient way to perform common geometric calculations while demonstrating fundamental Python programming concepts such as functions, collections, input validation, conditional statements, mathematical operations, and built-in modules.
