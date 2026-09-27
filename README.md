@@ -145,4 +145,3 @@ Pranav Vidyarthi \
 Project = Geometrical shape calculator\
 Language : Python
 
-The Geometric Shape Calculator provides a simple and efficient way to perform common geometric calculations while demonstrating fundamental Python programming concepts such as functions, collections, input validation, conditional statements, mathematical operations, and built-in modules.
