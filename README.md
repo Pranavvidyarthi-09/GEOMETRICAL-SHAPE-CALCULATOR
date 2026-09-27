@@ -155,7 +155,10 @@ Geometric-Shape-Calculator/
 
 ## Screenshots
 
-Screenshots of the program execution can be added here to demonstrate the calculator interface and results.
+### User Menu
+<img width="500" height="300" alt="geometric_shape_calculator_screenshot" src="https://github.com/user-attachments/assets/3e2d6cdf-163a-4902-b952-a1ba6e5818ef" />
+
+
 
 ## Conclusion
 The Geometric Shape Calculator is a simple and useful Python project that makes geometric calculations quick and easy. It demonstrates important Python concepts such as functions, input validation, conditional statements, mathematical operations, and built-in modules. The project successfully calculates different measurements for 12 common geometric shapes and provides accurate results.
