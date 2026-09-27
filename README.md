@@ -52,20 +52,40 @@ The project also includes input validation, formula display, random shape sugges
 
 ## Installation
 
-### 1. Install Python
+### Step 1: Install Python
 
-Install Python 3 on your computer.
+Download and install Python 3 on your computer.
 
-### 2. Download the Project
+After installation, open Command Prompt / Terminal and check whether Python is installed:
 
-Download or clone the project files from the GitHub repository.
+```bash
+python --version
+```
 
-### 3. Open the Project Folder
+If required, use:
 
-Open a terminal or command prompt inside the project folder.
+```bash
+python3 --version
+```
+
+You should see the installed Python version.
 
 ---
+### Step 2: Download the Project
 
+You can either clone the GitHub repository or download it as a ZIP file.
+
+#### Option 1 — Clone the Repository
+
+```bash
+git clone <https://github.com/adityakumarpandey11/vityarthiproject.git>
+```
+
+Navigate to the project folder:
+
+```bash
+cd vityarthiproject
+```
 ## How to Run
 
 Run the following command:
