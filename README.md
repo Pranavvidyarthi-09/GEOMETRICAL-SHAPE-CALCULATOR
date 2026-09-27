@@ -78,7 +78,7 @@ You can either clone the GitHub repository or download it as a ZIP file.
 #### Option 1 — Clone the Repository
 
 ```bash
-git clone <https://github.com/adityakumarpandey11/vityarthiproject.git>
+git clone  <https://github.com/Pranavvidyarthi-09/GEOMETRICAL-SHAPE-CALCULATOR.git>
 ```
 
 Navigate to the project folder:
