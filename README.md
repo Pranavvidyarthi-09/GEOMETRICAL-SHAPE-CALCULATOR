@@ -84,7 +84,7 @@ git clone  <https://github.com/Pranavvidyarthi-09/GEOMETRICAL-SHAPE-CALCULATOR.g
 Navigate to the project folder:
 
 ```bash
-cd vityarthiproject
+cd Geometrical-shape-calculator
 ```
 ## How to Run
 
