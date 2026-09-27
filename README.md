@@ -1,30 +1,32 @@
 # Geometric Shape Calculator
 
+## PROJECT OVERVIEW
+
 A simple Python-based Geometric Shape Calculator that calculates areas, volumes, perimeters, surface areas, and other measurements for different geometric shapes.
 
-The program provides a menu of 12 geometric shapes, accepts user input, performs the required calculation, displays the result, and maintains a calculation history during the program run.
+The program provides a menu of 12 geometric shapes, accepts user input, performs the required calculation, displays the result, and maintains a calculation history during the program run. 
 
-## Features
+---
 
-- Supports 12 different geometric shapes
+ ## Features
 
-- Calculates areas and volumes
+- 12 Geometric Shapes — Supports Circle, Rectangle, Square, Triangle, Trapezium, Parallelogram, Cube, Cuboid, Cylinder, Cone, Sphere, and Hemisphere.
+- Area Calculation — Calculates the area of various 2D geometric shapes.
+- Volume Calculation — Calculates the volume of 3D geometric shapes.
+- Perimeter Calculation — Calculates the perimeter of applicable 2D shapes.
+- Surface Area Calculation — Calculates surface or curved surface area for supported 3D shapes.
+- Formula Display — Displays the formula used for the selected shape.
+- Random Shape Suggestion — Randomly suggests a geometric shape for calculation.
+- Calculation History — Stores and displays completed calculations during the program session.
+- Date & Time Display — Shows the current date and time.
+- Random Number Generator — Generates a random number between 1 and 100.
+- Input Validation — Checks that dimensions such as radius, height, length, breadth, and side are positive.
+- Invalid Choice Handling — Provides an error message when an invalid menu option is selected.
+- Python Math Functions — Uses Python's `math` module for accurate mathematical calculations.
+- Python Data Structures — Demonstrates the use of tuples, lists, sets, and dictionaries.
+- Simple CLI Interface — Easy-to-use command-line interface with clear menus and instructions.
 
-📏 Calculates perimeter, circumference, surface area, and slant height where applicable
-
-🎲 Generates a random shape suggestion
-
-🔢 Generates a random number
-
-🕒 Displays the current date and time
-
-📋 Displays the formula used for the selected shape
-
-- Stores calculation history during the program execution
-
-- Validates that dimensions are greater than zero
-
-- Handles invalid menu choices
+---
 
 ## Supported Shapes
 No.	Shape	Calculation
@@ -40,7 +42,8 @@ No.	Shape	Calculation
 10	Cone	Volume, Slant Height
 11	Sphere	Volume, Surface Area
 12	Hemisphere	Volume, Curved Surface Area
-📐 Formulas Used
+
+## Formulas Used
 1. Circle
 
 Area
@@ -158,7 +161,7 @@ Curved Surface Area
 
 2 × π × r²
 
-🛠️ Technologies Used
+## Technologies Used
 
 Python 3
 
@@ -394,7 +397,7 @@ Basic input validation
 
 Functions from the math module
 
-👨‍💻 Project Purpose
+ Project Purpose
 
 The main purpose of this project is to create a beginner-friendly Python application for performing common geometric calculations while practicing fundamental programming concepts.
 
@@ -404,7 +407,7 @@ It can also be used as a school/college Python project or as a beginner programm
 
 This project is free to use, modify, and learn from.
 
-⭐ Acknowledgement
+ Acknowledgement
 
 Built using Python and its standard library modules:
 
